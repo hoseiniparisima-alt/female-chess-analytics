@@ -1,0 +1,12 @@
+# Raw data is not published
+data/
+*.csv
+*.csv.gz
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# macOS
+.DS_Store
